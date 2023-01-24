@@ -13,6 +13,7 @@
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
     "babel-loader": "^8.2.5",
+    "file-loader": "^6.2.0",
     "webpack": "^4",
     "webpack-cli": "^3.x"
   }
